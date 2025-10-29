@@ -1,4 +1,4 @@
-# DDD-2025-Group
+# DDD-2025-Group11
 Riccardo Assirelli; Ruben Bähler; Lynn Germiquet
 ## [Project title] Trillullì
 
