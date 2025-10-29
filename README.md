@@ -1,4 +1,4 @@
-# DDD-2025-GroupX
+# DDD-2025-Group11
 [Group member names] Ginevra Terenghi; Antonella Autuori
 ## [Project title] Trillullì
 
