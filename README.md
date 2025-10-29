@@ -1,5 +1,5 @@
 # DDD-2025-Group11
-[Group member names] Ginevra Terenghi; Antonella Autuori
+Riccardo Assirelli; Ruben Bähler; Lynn Germiquet
 ## [Project title] Trillullì
 
 ### Data Collection
